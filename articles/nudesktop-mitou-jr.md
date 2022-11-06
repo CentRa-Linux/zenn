@@ -156,4 +156,4 @@ https://case-shinjuku.com/
 頑張れ〜って思った方はバッジでもください。
 早急に実用可能な感じにしたいと思っています。
 ではでは。
-https://github.com/CentRa-Linux/NuDesktop-Shell
+https://github.com/CentRa-Linux/NuDesktop_Shell

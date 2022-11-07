@@ -18,7 +18,7 @@ published: true
 - 結構YouTubeの動画を見ていない・見る暇がない人がいそうだった
     - ここに上がっています
 
-https://www.youtube.com/watch?v=fw1LFIZz-zo&t=12003s
+https://www.youtube.com/watch?v=JAdqgpCSRJg&t=345s
 
 - 成果報告会では喋りきれなかったことが大量にあった
     - 技術的詳細を書きたくなった

@@ -125,7 +125,7 @@ QMLをデスクトップ環境の実装に使うときに困った点とか言�
 - と思っていた時期が私にもありました
     →KWindowSystemではなぜかウィンドウの削除がそのままではできません（何故か実装されてない）
     →このためだけにX11のライブラリを直接触るはめになり、調査と実装に2週間かかりました
-    →と思ったらKWindowSystemの付属のライブラリでで
+    →と思ったらKWindowSystemの付属のライブラリで
     ```
         NETRootInfo(QX11Info::connection(), NET::CloseWindow).closeWindowRequest(wid);
     ```

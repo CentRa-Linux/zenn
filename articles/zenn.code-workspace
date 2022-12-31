@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": ".."
+		},
+		{
+			"name": "Avengeance_Main",
+			"path": "../../PlatformIO/Projects/Avengeance_Main"
 		}
 	],
 	"settings": {}

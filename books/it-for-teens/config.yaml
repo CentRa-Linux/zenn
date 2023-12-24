@@ -1,0 +1,15 @@
+title: "中高生よ、ITに入門しよう"
+summary: "中高生や小学生はITにどの様に入門すればいいのか、網羅的にまとめることを目指す。"
+topics: ["初心者", "ポエム", "Linux", "プログラミング", "自作PC"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - intro
+  - env
+  - env-pc
+  - env-linux
+  - env-ide
+  - env-restrict
+  - study
+  - mind

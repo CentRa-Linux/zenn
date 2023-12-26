@@ -34,7 +34,7 @@ title: "01-4: 制限を愉しむ"
 ## 1. PCがない
 
 ### PCを買う
-- 1節を参照
+→ 1節を参照
 
 ### スマートフォンを使う
 スマートフォン上でプログラミングをする方法はいくつかある。スマートフォン上でLinuxを動かす方法には、[Termux](https://play.google.com/store/apps/details?id=com.termux&hl=ja&gl=US&pli=1)や[UserLAnd](https://play.google.com/store/apps/details?id=tech.ula&hl=ja&gl=US)がある。これらと、マウスやキーボードを合わせて使うことである程度のプログラミングが可能になる。
